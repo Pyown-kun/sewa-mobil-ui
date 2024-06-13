@@ -1,0 +1,8 @@
+Jenis Mobil : Kecil
+Biaya Mobil : 900000.0
+Total Lama Meminjam : 3 Hari
+Biaya Supir : 450000.0
+Biaya Asuransi : 300000.0
+Biaya GPS : 150000.0
+Kode Promo : 
+Totsl Biaya : 1710000.0
