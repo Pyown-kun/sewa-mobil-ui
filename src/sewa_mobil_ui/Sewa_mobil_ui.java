@@ -169,10 +169,8 @@ public class Sewa_mobil_ui {
                     + "Biaya GPS : " + biayaGps + "\n"
                     + "Kode Promo : " + kodePromo + "\n"
                     + "Totsl Biaya : " + biayaTotal);
-//        System.out.println("Success");
-            bw.close();
 
-//       
+            bw.close();
         }
 
     }
