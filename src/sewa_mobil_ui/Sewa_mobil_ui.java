@@ -172,13 +172,7 @@ public class Sewa_mobil_ui {
 //        System.out.println("Success");
             bw.close();
 
-//        System.out.println("Biaya Mobil : " + biayaMobil);
-//        System.out.println("Total Lama Meminjam : " + hari + " Hari");
-//        System.out.println("Biaya Supir : " + biayaSupir);
-//        System.out.println("Biaya Asuransi : " + biayaAsuransi);
-//        System.out.println("Biaya GPS : " + biayaGps);
-//        System.out.println("Kode Promo : " + kodePromo);
-//        System.out.println("Totsl Biaya : " + biayaTotal);
+//       
         }
 
     }
